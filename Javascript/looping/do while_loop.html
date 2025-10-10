@@ -6,12 +6,29 @@
     <title>Do while loops</title>
 </head>
 <body>
-    <script>
-   let a=1;
-   do {
-     console.log(a);
-     a++;
-   } while (a <=100);
-   </script>
+    <h2>Do While Loop Example</h2>
+  <p id="output"></p>
+
+  <script>
+    //  for decrement
+    let i = 100;
+    let text = "";
+    do {
+      text += "Value: " + i + "<br>";
+      i--;
+    } while (i >= 1);
+    document.getElementById("output").innerHTML = text;
+
+
+
+    //  for increment 
+    // let i = 1;
+    // let text = "";
+    // do {
+    //   text += "Value: " + i + "<br>";
+    //   i++;
+    // } while (i <= 100);
+    // document.getElementById("output").innerHTML = text;
+  </script>
 </body>
 </html>
