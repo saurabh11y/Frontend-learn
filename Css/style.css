@@ -1,7 +1,53 @@
-h1 {
-    color: red;
+#first {
+  color: aqua;
 }
-p {
+
+#kabhi{
+  color: chartreuse;
+}
+.ram {
+  color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {
+  color: blue;
+}
+
+
+/* h1 {
+    color: red;
+}  */
+/* #heading1 {
+  color: aqua; */
+/* } */
+
+
+/* p {
   color: blue;
 }
  
@@ -10,7 +56,10 @@ button {
    background-color: rgb(235, 116, 19);
 }
 body{
-    background-color: #ffa6f9; 
+    background-color: #ffa6f9;  */
     /* background-color:rgb(200,220,190) */
-
-}
+    /* }
+     
+    *{
+      color: black;
+    } */
