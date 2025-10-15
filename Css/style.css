@@ -9,7 +9,14 @@
   color: blue;
 }
 
-
+p {
+  text-align: start;
+}
+h1{
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration:underline 15px;
+}
 
 
 
