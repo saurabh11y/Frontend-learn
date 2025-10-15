@@ -17,7 +17,17 @@ h1{
   font-family: Arial, Helvetica, sans-serif;
   text-decoration:underline 15px;
 }
+h2{
+  text-transform: uppercase;
+}
+h3{
+  text-shadow: 2px 2px 5px red;
+}
 
+#para{
+  font-size: 29px;
+  line-height: 200px;
+}
 
 
 
