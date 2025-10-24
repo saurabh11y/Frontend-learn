@@ -10,3 +10,11 @@
 button{
     background-color: green;
 }
+
+div {
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
