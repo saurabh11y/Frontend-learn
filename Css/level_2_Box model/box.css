@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 100px;
+    background-color:rgb(64, 224, 64);
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(15, 13, 13);
+    /* border-radius: 10%; */
+    padding-left:25px ;
+    padding-right: 20px;
+    margin: 10px 5px 10px 15px;
+
+}
+h1{
+    width: 150px;
+    background-color: chartreuse;
+    border: 5px green dashed;
+    text-align: center;
+}
